@@ -36,7 +36,7 @@ int main ()
          div=num1/num2;
          cout<<"division of "<<num1<<" and "<<num2<<" is : "<<div<<endl;}
         else {
-              cout<<"the value of num1 is equal to or less than 0"<<endl;
+              cout<<"the value of num1 is equal to 0 "<<endl;
         }
     }
     
